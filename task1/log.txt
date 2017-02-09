@@ -1,0 +1,11 @@
+commit 8949f7e96f184d9b5c86aeedb3fd0eb581126f5b
+Author: Stanislav <stas.starodubtsev@gmail.com>
+Date:   Thu Feb 9 21:36:09 2017 +0300
+
+    add task1
+
+commit 62e7fc82f925572e3db83a8012200db2d08e1b68
+Author: Stanislav <stas.starodubtsev@gmail.com>
+Date:   Thu Feb 9 21:35:04 2017 +0300
+
+    add .gitcommit
